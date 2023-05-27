@@ -21,7 +21,3 @@ function toggleMode() {
     img.setAttribute("alt", "Foto de Maria luiza")
   }
 }
-
-
-  
-  
